@@ -32,6 +32,7 @@ lora 图像传输具备下面几个优点：
 链接端：串口
 显示界面：mfc(c++) 
 
+![net](./pic/net.png)
 ![test0](./pic/test0.png)
 ![test1](./pic/test1.png)
 ![界面](./pic/界面.png)
