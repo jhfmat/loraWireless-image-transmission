@@ -21,3 +21,7 @@ lora 图像传输具备下面几个优点：
 #3 UartDisplay_2.2_SRC (vs)
 链接端：串口
 显示界面：mfc(c++) 
+
+![pic1](./pics/test0.jpg)
+![pic1](./pics/test1.jpg)
+![pic1](./pics/界面.jpg)
