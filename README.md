@@ -1,6 +1,5 @@
 
 https://github.com/jhfyouxiang/loraWireless-image-transmission
-
 ##loraWireless image transmission
 lora 图像传输具备下面几个优点：
 功耗低，体积小，传输距离远，能够在复杂的环境中穿透障碍物（采用的低频433m频段）
@@ -11,7 +10,7 @@ lora 图像传输具备下面几个优点：
 
 发送端主板
 
-接受端主板
+接收端主板
 
 ##1 ov2640sx1276发送.rar 微型设备传输端 (keil)
 
@@ -25,7 +24,7 @@ lora 图像传输具备下面几个优点：
 
 控制器:stm32 
 
-无线接受模块：sx12768
+无线接收模块：sx12768
 
 链接端：串口
 
